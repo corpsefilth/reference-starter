@@ -1,2 +1,2 @@
 # reference-starter
-Phaser reference starter priject
+Phaser reference starter project
